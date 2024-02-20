@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+0![](https://img.shields.io/badge/Uneweb-blue)
 
 #OdinRecipes
 
@@ -65,4 +65,4 @@ Give it a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is CC0 1.0 Universal licensed.
+This project is [CC0 1.0 Universal](LICENSE) licensed.
