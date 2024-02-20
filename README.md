@@ -4,15 +4,15 @@
 
 > For those who don't know how to cook cupcakes or tequeños and pancakes, here is the hack of life
 
-![screenshot](./app_screenshot.png)
+![screenshot](captura.png)
 
 What you will see below is everything necessary to be able to cook what a Tequeño empanada and pancake is.
 
 ## Built with
 
-- Main languages
-- Frames
-- Used technology
+- html
+- VSCode
+- Git Bash
 
 ## Live Demo
 
@@ -48,11 +48,6 @@ To get a local copy up and running, follow these simple example steps.
 - GitHub: [@abrahm18](https://github.com/abrahm18)
 
 
-👤 **Author18**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -65,10 +60,9 @@ Give it a ⭐️ if you like this project!
 
 ## Thanks
 
-- A tip for anyone whose code has been used.
-- Inspiration
-- etc
+- I thank Google for giving me the information I needed to carry out this project.
+- I thank my partner Daniel who helped me complete my project and for teaching me some tricks
 
 ## 📝 License
 
-This project is licensed [CC0 1.0 Universal](LICENSE).
+This project is CC0 1.0 Universal licensed.
