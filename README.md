@@ -21,8 +21,7 @@ What you will see below is everything necessary to be able to cook what a Teque√
 
 ## Starting
 
-**This is an example of how you can provide instructions on how to configure your project locally.**
-**Modify this file to match your project, remove any sections that do not apply. For example: remove the testing section if the current project does not require testing.**
+**This work is from 3 repositories about fast food, as it is super detailed step by step and it will definitely help you a little if you don't know how to cook**
 
 
 To get a local copy up and running, follow these simple example steps.
