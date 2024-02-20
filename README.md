@@ -16,7 +16,7 @@ What you will see below is everything necessary to be able to cook what a Teque√
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://abrahm18.github.io/odin-recipes/)
 
 
 ## Starting
