@@ -16,13 +16,12 @@ What you will see below is everything necessary to be able to cook what a Teque�
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://abrahm18.github.io/odin-recipes/)
 
 
 ## Starting
 
-**This is an example of how you can provide instructions on how to configure your project locally.**
-**Modify this file to match your project, remove any sections that do not apply. For example: remove the testing section if the current project does not require testing.**
+**This work is from 3 repositories about fast food, as it is super detailed step by step and it will definitely help you a little if you don't know how to cook**
 
 
 To get a local copy up and running, follow these simple example steps.
@@ -52,7 +51,7 @@ To get a local copy up and running, follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check out the [issues page](issues/).
+Feel free to check out the [issues page](https://github.com/Abrahm18/odin-recipes/issues).
 
 ## Show your support
 
@@ -65,4 +64,4 @@ Give it a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is CC0 1.0 Universal licensed.
+This project is [CC0 1.0 Universal](LICENSE) licensed.
