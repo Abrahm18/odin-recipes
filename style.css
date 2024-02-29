@@ -1,7 +1,10 @@
 h1 {
-  color:blueviolet;
+  color:rgb(89, 8, 99);
   text-align: center;
   font-size: 50px;
+  padding: 30px;
+  margin: 20px;
+  background-color: #bc0dc2ab;
 }
 
 li {
@@ -9,4 +12,11 @@ li {
   width: 50px;
   margin: 0auto;
   font-size: 25px;
+}
+
+fieldset {
+  background-color: #bc0dc2ab;
+  color: black;
+  margin: 20px;
+  padding: 10px;
 }
