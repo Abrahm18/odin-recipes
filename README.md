@@ -4,7 +4,7 @@
 
 > For those who don't know how to cook cupcakes or tequeños and pancakes, here is the hack of life
 
-![screenshot](flebox.png.png)
+![screenshot](flebox)
 
 What you will see below is everything necessary to be able to cook what a Tequeño empanada and pancake is.
 
